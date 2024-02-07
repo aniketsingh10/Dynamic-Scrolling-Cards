@@ -11,8 +11,11 @@
   "dependencies": {
     "expo": "~50.0.5",
     "expo-status-bar": "~1.11.1",
+    "moment": "^2.30.1",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-gesture-handler": "^2.14.1",
+    "twrnc": "^3.6.8"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
